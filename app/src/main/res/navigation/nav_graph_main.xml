@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph_main"
+    app:startDestination="@id/menu_WS02">
+
+    <fragment
+        android:id="@+id/menu_WS02"
+        android:name="com.example.multithreading_workshop.Ws02FirstCoroutineTaskFragment"
+        android:label="fragment_ws_02"
+        tools:layout="@layout/fragment_ws_02" />
+    <fragment
+        android:id="@+id/menu_WS01"
+        android:name="com.example.multithreading_workshop.Ws01Fragment"
+        android:label="fragment_ws01"
+        tools:layout="@layout/fragment_ws01" />
+    <fragment
+        android:id="@+id/menu_WS03"
+        android:name="com.example.multithreading_workshop.WS03CoroutinesProblemFragment"
+        android:label="fragment_w_s03_coroutines_problem"
+        tools:layout="@layout/fragment_w_s03_coroutines_problem" />
+    <fragment
+        android:id="@+id/menu_WS04"
+        android:name="com.example.multithreading_workshop.WS04Fragment"
+        android:label="WS04Fragment" />
+</navigation>

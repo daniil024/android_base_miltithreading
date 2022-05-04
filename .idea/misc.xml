@@ -3,7 +3,20 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/AndroidStudioProjects/Multithreading_workshop/app/src/main/res/layout/activity_main.xml" value="0.1598731884057971" />
+        <entry key="..\:/AndroidStudioProjects/Multithreading_workshop/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1" />
+        <entry key="..\:/AndroidStudioProjects/Multithreading_workshop/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
+        <entry key="..\:/AndroidStudioProjects/Multithreading_workshop/app/src/main/res/drawable/ic_launcher_foreground.xml" value="0.1" />
+        <entry key="..\:/AndroidStudioProjects/Multithreading_workshop/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/AndroidStudioProjects/Multithreading_workshop/app/src/main/res/layout/blank_fragment.xml" value="0.1598731884057971" />
+        <entry key="..\:/AndroidStudioProjects/Multithreading_workshop/app/src/main/res/layout/button_layout.xml" value="0.1375" />
+        <entry key="..\:/AndroidStudioProjects/Multithreading_workshop/app/src/main/res/layout/fragment_buttons.xml" value="0.1375" />
+        <entry key="..\:/AndroidStudioProjects/Multithreading_workshop/app/src/main/res/layout/fragment_w_s03_coroutines_problem.xml" value="0.1598731884057971" />
+        <entry key="..\:/AndroidStudioProjects/Multithreading_workshop/app/src/main/res/layout/fragment_ws01.xml" value="0.1" />
+        <entry key="..\:/AndroidStudioProjects/Multithreading_workshop/app/src/main/res/layout/fragment_ws_02.xml" value="0.1375" />
+        <entry key="..\:/AndroidStudioProjects/Multithreading_workshop/app/src/main/res/layout/fragment_ws_04.xml" value="0.1598731884057971" />
+        <entry key="..\:/AndroidStudioProjects/Multithreading_workshop/app/src/main/res/menu/app_nav.xml" value="0.1" />
+        <entry key="..\:/AndroidStudioProjects/Multithreading_workshop/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1" />
+        <entry key="..\:/AndroidStudioProjects/Multithreading_workshop/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1" />
       </map>
     </option>
   </component>
